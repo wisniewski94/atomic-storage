@@ -1,0 +1,31 @@
+{
+  "name": "simple-storage",
+  "version": "1.0.0",
+  "description": "PubSub based simple state management lib ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisniewski94/simple-storage.git"
+  },
+  "keywords": [
+    "storage",
+    "state",
+    "management",
+    "pub",
+    "sub",
+    "pubsub",
+    "publish",
+    "subscribe",
+    "vanilla"
+  ],
+  "author": "Wiktor Wiśniewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wisniewski94/simple-storage/issues"
+  },
+  "homepage": "https://github.com/wisniewski94/simple-storage#readme"
+}
