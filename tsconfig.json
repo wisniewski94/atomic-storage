@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "moduleResolution": "node",
+    "module": "es6",
+    "declaration": true,
+    "typeRoots": ["node_modules/@types", "src/types"]
+  },
+  "include": [
+    "*.ts"
+  ],
+  "exclude": ["node_modules/**"],
+}
